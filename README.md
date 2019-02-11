@@ -1,2 +1,2 @@
 # hello-world
-!(octocat(1).png)
+octocat(1).png
